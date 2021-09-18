@@ -1,3 +1,7 @@
+# Update by J. Schlooz
+Ported the generated svg circle icons made by Ecceman to a visio stencil and image corrected a few icons to improve visibility. In visio colors can be manipulated by chnaging the Line color.
+Adding more icons will be done in the next update.
+
 # Affinity symbol set
 Free 2D symbols for computer network diagrams. 
 
